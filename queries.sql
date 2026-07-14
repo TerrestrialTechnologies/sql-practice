@@ -24,7 +24,7 @@ or sizekb > 50000;
 
 --like 
 select * 
-form files
+from files
 where name like '%Virus%';
 
 --order by 
